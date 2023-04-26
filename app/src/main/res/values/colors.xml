@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="text_bottom">#c9c9c9</color>
+    <color name="btn_sign_in">#ed7171</color>
+    <color name="btn_sign_in_stroke">#d66060</color>
+
+    <color name="btn_register">#ed7171</color>
+    <color name="btn_register_stroke">#d66060</color>
+
 </resources>
